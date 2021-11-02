@@ -6,7 +6,11 @@ class App extends Component {
         super();
         this.state = {
             userInput: '',
+<<<<<<< HEAD
             items: []     /*add*/
+=======
+            items: []
+>>>>>>> 91dff2d34cda43d312e6fa4cfdfc1b78955e655c
         };
     }
 
